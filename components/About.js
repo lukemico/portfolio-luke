@@ -24,15 +24,16 @@ const About = () => {
 							</a>
 						</p>
 						<p class="mb-4">
-							Currently developing apps on React, Redux, Laravel,
-							Amazon Web Services and contributing to open source
-							in my free time. New to Next.js, Tailwindcss and
-							Figma.
+							Lorem Ipsum is simply dummy text of the printing and
+							typesetting industry. Lorem Ipsum has been the
+							industry's standard dummy text ever since the 1500s,
+							when an unknown printer took a galley of type and
+							scrambled it to make a type specimen book.
 						</p>
 						<p class="mb-4">
-							Welcome to my digital garden, where I share what I'm
-							learning about shipping great products, becoming a
-							better developer and growing a career in tech.
+							Ipsum has been the industry's standard dummy text
+							ever since the 1500s, when an unknown printer took a
+							galley of type and scrambled to make a cake.
 						</p>
 						<h2 class="font-bold">Let’s Make the Web. Faster 🚀</h2>
 					</div>
